@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+}
+.container{
+    min-height: 70vh;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.myip{
+    width: 40%;
+    padding: 12px;
+    margin: 15px;
+    font-size: 16px;
+    border: 2px solid black;
+    border-radius: 12px;
+    outline: none;
+}
+.btn{
+    padding: 12px 16px;
+    font-size: 18px;
+    border: 2px solid black;
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+    margin-bottom: 5px;
+}
